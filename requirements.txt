@@ -1,0 +1,24 @@
+# CipherVault Requirements - Python 3.8+ Compatible
+
+# Core cryptography libraries
+pycryptodome>=3.19.0
+cryptography>=41.0.0
+
+# Image processing for GUI (compatible with Python 3.13)
+Pillow>=10.4.0
+
+# Numerical operations
+numpy>=1.26.0
+
+# Password hashing (optional but recommended)
+bcrypt>=4.1.0
+argon2-cffi>=23.1.0
+
+# For BLAKE3 hash (optional - may require compilation)
+# blake3>=0.4.0
+
+# GUI (usually included with Python)
+# tkinter is typically included with Python standard library
+
+# Note: Install with: pip install -r requirements.txt
+# For Python 3.13+: Use latest versions with >= instead of ==
