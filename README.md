@@ -99,17 +99,6 @@ CipherVault is designed as both an educational tool and practical encryption uti
 - [Algorithm Reference](CHANGELOG.md) - Detailed algorithm information
 - [Developer Guide](LICENSE) - Contributing and development setup
 
-## 🛠️ Building from Source
-
-```bash
-# Install build dependencies
-pip install pyinstaller pillow
-
-# Build executable
-python build_executable.py
-
-# Output: dist/CipherVault.exe
-```
 
 ## 📄 License
 
